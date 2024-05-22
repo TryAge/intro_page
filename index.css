@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+:root {
+  --cor1: #6B00EB;
+  --cor2: #BB00F0;
+  --cor3: #FFFFFF;
+}
+
+header {
+  min-height: 150px;
+  background-color: var(--cor2);
+}
+header h1 {
+  font-size: 6em;
+}
+header h2 {
+  font-size: 20px;
+}
+
+nav {
+  margin-top: 80px;
+}
+
+main img {
+  margin-top: 20px;
+}/*# sourceMappingURL=index.css.map */
